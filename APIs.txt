@@ -1,0 +1,13 @@
+localhost:3000/users -- get all users
+localhost:3000/signUp -- for add new user
+localhost:3000/signIn -- signin and generate Token
+localhost:3000/user --- get specific user
+localhost:3000/removeReceived/:id   ---- remove specific received note by note id 
+
+
+localhost:3000/notes --- get all notes
+localhost:3000/addNewNote  ---- add new note and notify users by note 
+localhost:3000/note  --- get note by specific type
+
+All APIs are Secured by JWT (token)
+
